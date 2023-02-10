@@ -3,7 +3,7 @@ Hi 👋
 
 My name is Chloe.
 
-🌱 I’m currently learning web development with The Developer Academy.
+🌱 I’m currently learning full-stack web development with <a href="https://thedeveloperacademy.com/" target="_blank">The Developer Academy.
 
 ### Skills
 
