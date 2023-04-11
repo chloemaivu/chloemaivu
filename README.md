@@ -3,7 +3,7 @@ Hi 👋
 
 My name is Chloe Mai.
 
-<p>🌱 I’m currently learning full-stack web development through a bootcamp with <a href="https://thedeveloperacademy.com/" target="_blank">The Developer Academy.</a></p>
+<p>🌱 I recently learnt full-stack web development through a bootcamp with <a href="https://thedeveloperacademy.com/" target="_blank">The Developer Academy.</a></p>
 <p>✨ I graduated with First Class Honours in my BSc Computer Science and Mathematics from the <a href="https://www.leeds.ac.uk/">University of Leeds</a>.</p>
 <p>💻 See my portfolio <a href="https://chloemaivu.github.io/portfolio-website/"> here</a>.</p>
 
